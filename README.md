@@ -180,7 +180,7 @@ These projects include various topics and demonstrate my experience working in t
 
 You can watch the demonstration of this project here:
 
-👉 https://your-video-link-here
+👉 [https://your-video-link-here](https://drive.google.com/file/d/1BCe5pjXhK3unOTW6u3xpgfJP1qfb8PLE/view?usp=drive_link)
 
 The video shows:
 - System working in AUTO mode
