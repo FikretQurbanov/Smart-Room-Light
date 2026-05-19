@@ -157,7 +157,9 @@ A relay was initially considered but removed because:
 https://www.slideshare.net/slideshow/smart-room-light-system-with-automatic-and-manual-control-arduino-project-firk-t-qurbanov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287584852
 
 ---
-
+## Academia.edu
+https://www.academia.edu/167365928/This_project_focuses_on_designing_and_implementing_a_Smart_Room_Light_System_using_an_Arduino_Uno_a_Light_Dependent_Resistor_LDR_and_a_push_button_The_system_operates_in_two_modes
+---
 ## 📚 Resources
 This project was developed based on personal learning and research. 
 Various online tutorials and educational resources were used to better understand Arduino concepts such as LDR sensors, button input handling, and system logic design.
